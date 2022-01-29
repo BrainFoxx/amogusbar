@@ -1,25 +1,27 @@
-/*Amogus*/
-.html5-play-progress,
-.ytp-play-progress {
+@-moz-document domain(youtube.com)
+{
+    /*Amogus*/
+    .html5-play-progress,
+    .ytp-play-progress
+    {
     background: #ff9c00 !important;
-}
+    }
 
-
-
-.html5-scrubber-button,
-.ytp-scrubber-button {
+    .html5-scrubber-button,
+    .ytp-scrubber-button
+    {
     background: url("https://i.imgur.com/aihy5Uo.gif") !important;
     width: 30px !important;
     height: 40px !important;
     margin-left: -12px !important;
     margin-top: -15px !important;
-}
+    }
 
-
-
-.html5-progress-list,
-.ytp-progress-list,
-.video-ads .html5-progress-list.html5-ad-progress-list,
-.video-ads .ytp-progress-list.ytp-ad-progress-list {
+    .html5-progress-list,
+    .ytp-progress-list,
+    .video-ads .html5-progress-list.html5-ad-progress-list,
+    .video-ads .ytp-progress-list.ytp-ad-progress-list
+    {
     height: 10px !important;
+    }
 }

@@ -1,1 +1,1 @@
-# amogusbar
+# Amogus Bar for YouTube
